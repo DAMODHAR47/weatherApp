@@ -13,7 +13,7 @@ request , yargs
    1. User has to navigate to the root directory of the application.
    2. Then Run - 'node app.js -a "Bangalore"  (with or without quotes)
    3. Press enter
-output:
+# output:
 {
   "formatted_Address": "Bangalore",
   "Latitude": 12.97675,
